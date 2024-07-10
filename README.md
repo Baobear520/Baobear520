@@ -21,9 +21,9 @@
 </div>
 
 :man_technologist: I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- :telescope: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and generative AI.
+- :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and generative AI.
 
-- :zap: In my free time, I dig deep into Python, solve problems on Leetcode and read tech articles.
+- :telescope: In my free time, I dig deep into Python, solve problems on Leetcode and read tech articles.
 
 - :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry425-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/admitry425/)
 
@@ -46,7 +46,7 @@
 ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
-My projects :
+:briefcase: My projects :
 ---
 Django
  - https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/
