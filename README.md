@@ -8,8 +8,6 @@
   <a href="https://www.linkedin.com/in/dmitrii-alekseev-py/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/WeChat-green?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Badge"/>
-  <a href="https://t.me/admitry425/">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.reddit.com/user/DimaChengdu/">
@@ -20,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=Baobear520&style=flat-square&color=blue" alt=""/>
 </div>
 
-:man_technologist: I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+:man_technologist: I am a Python Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and generative AI.
 
 - :telescope: In my free time, I dig deep into Python, solve problems on Leetcode and read tech articles.
