@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/dmitrii-alekseev-py/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://t.me/admitry27/">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.reddit.com/user/DimaChengdu/">
@@ -17,31 +18,44 @@
 <div id="profile views" align="center">
 <img src="https://komarev.com/ghpvc/?username=Baobear520&style=flat-square&color=blue" alt=""/>
 </div>
+<h3>
+  
+ :man_technologist: I am a Python Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-:man_technologist: I am a Python Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and generative AI.
+ :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and generative AI.
+  
+ :telescope: I love to dig deep into Python, solve problems on Leetcode and read tech articles.
+  
+ :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/admitry27/)
 
-- :telescope: In my free time, I dig deep into Python, solve problems on Leetcode and read tech articles.
+</h3>
 
-- :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry425-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/admitry425/)
-
-  ---
+---
 
 ### :hammer_and_wrench: Languages & Frameworks:
 
-![Python](https://skillicons.dev/icons?i=python)
-![Django](https://skillicons.dev/icons?i=django)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=yellow)
+![[Django](https://skillicons.dev/icons?i=django)](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![[HTML](https://skillicons.dev/icons?i=html)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ---
 ### :hammer_and_wrench: Technologies & Tools:
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Selenium](https://skillicons.dev/icons?i=selenium)
-![Linux](https://skillicons.dev/icons?i=linux)
+
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
+![AIOHTTP](https://img.shields.io/badge/aiohttp-%232C5bb4.svg?style=for-the-badge&logo=aiohttp&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-%232C5bb4.svg?style=for-the-badge&logo=asyncio&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 :briefcase: My projects :
