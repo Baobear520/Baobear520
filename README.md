@@ -5,7 +5,7 @@
 </h1>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dmitrii-alekseev-py/">
+  <a href="https://www.linkedin.com/in/dmitry-alekseev-py/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/admitry27/">
@@ -18,17 +18,17 @@
 <div id="profile views" align="center">
 <img src="https://komarev.com/ghpvc/?username=Baobear520&style=flat-square&color=blue" alt=""/>
 </div>
-<h3>
+<h4>
   
  :man_technologist: I am a Python Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
  :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and generative AI.
   
- :telescope: I love to dig deep into Python, solve problems on Leetcode and read tech articles.
+ :telescope: I love to dig deep into Python, solve coding problems and learn cool tech stuff.
   
  :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/admitry27/)
 
-</h3>
+</h4>
 
 ---
 
@@ -60,25 +60,56 @@
 ---
 :briefcase: My projects :
 ---
-Django
- - https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/
- - https://github.com/Baobear520/Airbnb-clone
+
+- **Django**
+  - [UnderTheWeather Playlist Maker](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
+
+    "Under The Weather" full-stack web app helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS Bootstrap, JavaScript, Docker)
+  - [Airbnb Clone](https://github.com/Baobear520/Airbnb-clone)
+  
+    Creating a fully-featured Airbnb clone (Python, Django, Tailwind).
+    Currently in development.
+
 ---
-Django Rest Framework
-- https://github.com/Baobear520/Avito-backend-trainee-assignment-2024
-- https://github.com/Baobear520/TrainingCenter
+
+- **Django Rest Framework**
+  - [Avito Banner Service](https://github.com/Baobear520/Avito-backend-trainee-assignment-2024)
+
+    A web service for managing user banners with CRUD operations, PostgreSQL data storage, user authentication and permissions (Python, DRF, PostgreSQL).
+    Currently developing the auth API.
+  - [Training Center](https://github.com/Baobear520/TrainingCenter)
+
+    Web app for a training center online platform with an admin and a public RESTful interface, user authentication and permissions, MySQL database storage (Django, DRF, MySQL, HTML, CSS)
+
 ---
-SQLAlchemy
-- https://github.com/Baobear520/Users_heart_rates
+
+- **Python, SQLAlchemy, PostgreSQL**
+  - [Users Heart Rates](https://github.com/Baobear520/Users_heart_rates)
+    
+    A health monitoring system that tracks user heart rates and provides real-time analytics. 
+(Python, PostgreSQL, SQLAlchemy, asyncpg)
+
 ---
-Asyncio
- - https://github.com/Baobear520/DownloadMaster
+
+- **Asyncio, aiohttp**
+  - [Download Master](https://github.com/Baobear520/DownloadMaster)
+
+    Command-line script to asynchronously download files from a list of URLs, while displaying progress bars for each file's download (Python, request, asyncio, aiohttp)
+    
 ---
-Telegram bot
- - https://github.com/Baobear520/mma_events_bot
+
+- **Telegram Bots**
+  - [MMA Events Bot](https://github.com/Baobear520/mma_events_bot)
+
+    Parses data from sherdog.com, and sends the bot's user the links to the most recent and upcoming MMA events (Python, Telegram Bot API, request, beautiful soup, python-telegram-bot)
+
 ---
-Speech-to-Text
- - https://github.com/Baobear520/SpeechToText
+
+- **Speech-to-Text**
+  - [SpeechToText](https://github.com/Baobear520/SpeechToText)
+ 
+    Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI)
+    
 ---
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=baobear520&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
