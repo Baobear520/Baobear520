@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/dmitry-alekseev-py/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/admitry27/">
+  <a href="https://t.me/aldmikon27/">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.reddit.com/user/DimaChengdu/">
@@ -26,7 +26,7 @@
   
  :telescope: I love to dig deep into Python, solve coding problems and learn cool tech stuff.
   
- :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/admitry27/)
+ :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aldmikon27/)
 
 </h4>
 
@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=yellow)
 ![[Django](https://skillicons.dev/icons?i=django)](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![FastAPI](	https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![[HTML](https://skillicons.dev/icons?i=html)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ---
@@ -52,6 +53,7 @@
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -61,25 +63,25 @@
 :briefcase: My projects :
 ---
 
-- **Django**
+- **Django/Django Rest Framework**
+  - [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
+
+    A real estate query service that validates property data by simulating requests to a third-party server, returns the results and stores the data in a database (Python, Django, DRF, SQLite, Celery, Redis, Docker Compose, Swagger).
   - [UnderTheWeather Playlist Maker](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
 
     "Under The Weather" full-stack web app helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS Bootstrap, JavaScript, Docker)
-  - [Airbnb Clone](https://github.com/Baobear520/Airbnb-clone)
-  
-    Creating a fully-featured Airbnb clone (Python, Django, Tailwind).
-    Currently in development.
-
----
-
-- **Django Rest Framework**
   - [Avito Banner Service](https://github.com/Baobear520/Avito-backend-trainee-assignment-2024)
 
     A web service for managing user banners with CRUD operations, PostgreSQL data storage, user authentication and permissions (Python, DRF, PostgreSQL).
-    Currently developing the auth API.
+
   - [Training Center](https://github.com/Baobear520/TrainingCenter)
 
     Web app for a training center online platform with an admin and a public RESTful interface, user authentication and permissions, MySQL database storage (Django, DRF, MySQL, HTML, CSS)
+  
+---
+
+- **FastAPI**
+  
 
 ---
 
