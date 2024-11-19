@@ -82,6 +82,9 @@
 
 - **FastAPI**
   
+  - [FastAPI test app](https://github.com/Baobear520/FastAPI_test_app)
+
+    Learning FastAPI through the official docs.
 
 ---
 
@@ -94,6 +97,10 @@
 ---
 
 - **Asyncio, aiohttp**
+
+  - [Book Scraper](https://github.com/Baobear520/Book-Scraper)
+
+    A script for asynchronous scraping https://books.toscrape.com/ and extracting the books title and UPC value.
   - [Download Master](https://github.com/Baobear520/DownloadMaster)
 
     Command-line script to asynchronously download files from a list of URLs, while displaying progress bars for each file's download (Python, request, asyncio, aiohttp)
