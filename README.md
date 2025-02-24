@@ -62,49 +62,49 @@
 ---
 :briefcase: My projects :
 ---
+ **Full-stack Web Apps**
+ 
+  - [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
 
-- **Django/Django Rest Framework**
+    "Under The Weather" full-stack web app helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS Bootstrap, JavaScript, Docker)
+---
+    
+  **Web Apps and Services**
+
   - [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
 
     A real estate query service that validates property data by simulating requests to a third-party server, returns the results and stores the data in a database (Python, Django, DRF, SQLite, Celery, Redis, Docker Compose, Swagger).
-  - [UnderTheWeather Playlist Maker](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
-
-    "Under The Weather" full-stack web app helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS Bootstrap, JavaScript, Docker)
+  
   - [Avito Banner Service](https://github.com/Baobear520/Avito-backend-trainee-assignment-2024)
 
     A web service for managing user banners with CRUD operations, PostgreSQL data storage, user authentication and permissions (Python, DRF, PostgreSQL).
-
-  - [Training Center](https://github.com/Baobear520/TrainingCenter)
-
-    Web app for a training center online platform with an admin and a public RESTful interface, user authentication and permissions, MySQL database storage (Django, DRF, MySQL, HTML, CSS)
-  
----
-
-- **FastAPI**
-  
-  - [FastAPI test app](https://github.com/Baobear520/FastAPI_test_app)
-
-    Learning FastAPI through the official docs.
-
----
-
-- **Python, SQLAlchemy, PostgreSQL**
   - [Users Heart Rates](https://github.com/Baobear520/Users_heart_rates)
     
     A health monitoring system that tracks user heart rates and provides real-time analytics. 
 (Python, PostgreSQL, SQLAlchemy, asyncpg)
 
+  - [Training Center](https://github.com/Baobear520/TrainingCenter)
+
+    Web app for a training center online platform with an admin and a public RESTful interface, user authentication and permissions, MySQL database storage (Django, DjangoRestFramework, MySQL, HTML, CSS)
 ---
+    
+  **Parsers/web scrapers**
+  - [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
 
-- **Asyncio, aiohttp**
-
+    A script for generating mock-user data ...
+    
+    Also includes:
+    
+    - A framework for extracting large datasets from Avito API and saving them in a CSV-file or a Postgres database;
+    
+    - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket;
+    
+  - [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
+    A web scraping application designed to extract large datasets from (saksoff5th.com) using parallel multi-threading and asynchronous HTTP requests and to store obtained data in a database (Python, Selenium, threading, asyncio, aiohttp, aiofiles, SQLite).
+    
   - [Book Scraper](https://github.com/Baobear520/Book-Scraper)
 
-    A script for asynchronous scraping https://books.toscrape.com/ and extracting the books title and UPC value.
-  - [Download Master](https://github.com/Baobear520/DownloadMaster)
-
-    Command-line script to asynchronously download files from a list of URLs, while displaying progress bars for each file's download (Python, request, asyncio, aiohttp)
-    
+    A script for asynchronous scraping https://books.toscrape.com/, extracting books metadata and storing in a database (Python, asyncio, aiohttp).
 ---
 
 - **Telegram Bots**
@@ -114,10 +114,10 @@
 
 ---
 
-- **Speech-to-Text**
+- **AI/ML**
   - [SpeechToText](https://github.com/Baobear520/SpeechToText)
  
-    Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI)
+    Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI API)
     
 ---
 ### :fire: My Stats :
