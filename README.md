@@ -1,8 +1,9 @@
 <div id="greetings" align="center">
 <h1>
-  Hey, I'm Dmitry! 
+  Hey, I'm Dmitry!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2>I am a Python developer with 2,5 years of experience building modern scalable software. </h2>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dmitry-alekseev-py/">
@@ -20,11 +21,10 @@
 </div>
 <h4>
   
- :man_technologist: I am a Python Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
- :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and generative AI.
+ :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and AI/ML.
   
- :telescope: I love to dig deep into Python, solve coding problems and learn cool tech stuff.
+ :telescope: I love to dig deep into Python, solve problems and learn cool tech stuff.
   
  :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aldmikon27/)
 
@@ -91,16 +91,25 @@
   **Parsers/web scrapers**
   - [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
 
-    A script for generating mock-user data ...
-    
+    The project is a part of the app that scores clients' financial credibility using ML and CV.
+
+    It generates mock-users with personal credentials, assigns property objects (*real estate, cars, electronics*) using data from Avito API or CSV files, and stores the information in a Postgres database. The service also downloads property images, saves them in a storage bucket, and processes them with CV models (currently under development).
+    (Python, Selenium, pandas, csv, asyncio, aiohttp, aiofiles, asyncpg, PostgrSQL, MinIO, Docker)
+
     Also includes:
     
-    - A framework for extracting large datasets from Avito API and saving them in a CSV-file or a Postgres database;
+    - A framework for extracting large datasets from Avito API and saving them in a CSV file or a Postgres database;
     
     - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket;
     
   - [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
-    A web scraping application designed to extract large datasets from (saksoff5th.com) using parallel multi-threading and asynchronous HTTP requests and to store obtained data in a database (Python, Selenium, threading, asyncio, aiohttp, aiofiles, SQLite).
+
+    A web scraping application designed to extract large datasets from https://saksoff5th.com using parallel multi-threading and asynchronous HTTP requests and to store obtained data in a database.
+    (Python, Selenium, threading, asyncio, aiohttp, aiofiles, SQLite).
+
+    Also includes:
+    
+    A framework for testing, filtering out and saving valid proxies that can be used for scraping.
     
   - [Book Scraper](https://github.com/Baobear520/Book-Scraper)
 
