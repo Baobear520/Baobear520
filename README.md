@@ -64,11 +64,16 @@
 ---
  **Full-stack Web Apps**
  
-  - [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
-
-    "Under The Weather" full-stack web app helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS Bootstrap, JavaScript, Docker)
----
-    
+  <details><summary><strong><a href="https://github.com/Baobear520/UnderTheWeatherPlaylistMaker">Under The Weather</a></strong></summary>
+    <p></p>
+    "Under The Weather" full-stack web app helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location.
+    <p></p>
+  <details><summary><strong>Tech Stack</strong></summary>
+    <p></p>
+  Python, Django, Celery, Redis, HTML, CSS Bootstrap, JavaScript, Docker</details>
+  
+  </details>
+  
   **Web Apps and Services**
 
   - [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
