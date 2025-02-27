@@ -63,44 +63,47 @@
 ---
 :briefcase: My projects :
 ---
- **Full-stack Web Apps**
+
+
+ ### **Full-stack Web Apps**
  
- - [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
+ - ## [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
    
-    "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location.
+    "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker)
+   
+   [Docs](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/README.md) / [Документация](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/README_RUS.md)
     
-    <details>
-      <summary><strong>Docs</strong></summary> &nbsp;&nbsp;
-      <a href="https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/README.md">English</a>&nbsp;&nbsp;
-      <a href="https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/README_RUS.md">Документация на русском</a>
-    </details> 
-    
-    <details><summary><strong>Tech Stack</strong></summary>
-      Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker 
-    </details>
+---
 
+  ### **Web Services and Backend APIs**
 
-  
-  **Web Apps and Services**
-
-  - [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
+  - ## [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
 
     A real estate query service that validates property data by simulating requests to a third-party server, returns the results and stores the data in a database (Python, Django, DRF, SQLite, Celery, Redis, Docker Compose, Swagger).
+
+    [Docs](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README.md) / [Документация](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README_RUS.md)
   
-  - [Avito Banner Service](https://github.com/Baobear520/Avito-backend-trainee-assignment-2024)
+  - ## [Avito Banner Service](https://github.com/Baobear520/AvitoBanners)
 
     A web service for managing user banners with CRUD operations, PostgreSQL data storage, user authentication and permissions (Python, DRF, PostgreSQL).
-  - [Users Heart Rates](https://github.com/Baobear520/Users_heart_rates)
+
+    [Docs](https://github.com/Baobear520/AvitoBanners/blob/main/README.md) / [Документация](https://github.com/Baobear520/AvitoBanners/blob/main/README.md)
+    
+  - ## [Users Heart Rates](https://github.com/Baobear520/Users_heart_rates)
     
     A health monitoring system that tracks user heart rates and provides real-time analytics. 
 (Python, PostgreSQL, SQLAlchemy, asyncpg)
 
-  - [Training Center](https://github.com/Baobear520/TrainingCenter)
+    [Docs](https://github.com/Baobear520/Users_heart_rates/blob/main/README.md)/ [Документация]()
+
+  - ## [Training Center](https://github.com/Baobear520/TrainingCenter)
 
     Web app for a training center online platform with an admin and a public RESTful interface, user authentication and permissions, MySQL database storage (Django, DjangoRestFramework, MySQL, HTML, CSS)
+
+    [Docs]() / [Документация]()
 ---
     
-  **Parsers/web scrapers**
+  ### **Parsers/web scrapers**
   - [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
 
     The project is a part of the app that scores clients' financial credibility using ML and CV.
