@@ -104,20 +104,23 @@
 ---
     
   ### **Parsers/web scrapers**
-  - [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
+  - ## [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
 
     The project is a part of the app that scores clients' financial credibility using ML and CV.
 
     It generates mock-users with personal credentials, assigns property objects (*real estate, cars, electronics*) using data from Avito API or CSV files, and stores the information in a Postgres database. The service also downloads property images, saves them in a storage bucket, and processes them with CV models (currently under development).
+
     (Python, Selenium, pandas, csv, asyncio, aiohttp, aiofiles, asyncpg, PostgrSQL, MinIO, Docker)
 
     Also includes:
     
-    - A framework for extracting large datasets from Avito API and saving them in a CSV file or a Postgres database;
+    - A framework for extracting large datasets from Avito API and saving them in a CSV file or a Postgres database
     
-    - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket;
+    - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket
+
+    [Docs](https://github.com/Baobear520/AvitoParser/blob/main/README.md) / [Документация]()
     
-  - [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
+  - ## [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
 
     A web scraping application designed to extract large datasets from https://saksoff5th.com using parallel multi-threading and asynchronous HTTP requests and to store obtained data in a database.
     (Python, Selenium, threading, asyncio, aiohttp, aiofiles, SQLite).
@@ -126,22 +129,32 @@
     
     A framework for testing, filtering out and saving valid proxies that can be used for scraping.
     
-  - [Book Scraper](https://github.com/Baobear520/Book-Scraper)
+    [Docs](https://github.com/Baobear520/Saksoff5th.com_data_scraper/blob/main/README.md) / [Документация]()
+    
+  - ## [Book Scraper](https://github.com/Baobear520/BookScraper)
 
     A script for asynchronous scraping https://books.toscrape.com/, extracting books metadata and storing in a database (Python, asyncio, aiohttp).
+
+    [Docs](https://github.com/Baobear520/BookScraper/blob/main/README.md) / [Документация]()
+    
 ---
 
-- **Telegram Bots**
-  - [MMA Events Bot](https://github.com/Baobear520/mma_events_bot)
+- ### **Telegram Bots**
+  - ## [MMA Events Bot](https://github.com/Baobear520/mma_events_bot)
 
-    Parses data from sherdog.com, and sends the bot's user the links to the most recent and upcoming MMA events (Python, Telegram Bot API, request, beautiful soup, python-telegram-bot)
+    Parses data from https://www.sherdog.com, and sends the bot's user the links to the most recent and upcoming MMA events (Python, Telegram Bot API, request, beautiful soup, python-telegram-bot).
+
+    [Docs](https://github.com/Baobear520/mma_events_bot/blob/main/README.md) / [Документация]()
 
 ---
 
-- **AI/ML**
+- ### **AI/ML**
   - [SpeechToText](https://github.com/Baobear520/SpeechToText)
  
     Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI API)
+
+    [Docs](https://github.com/Baobear520/SpeechToText/blob/main/README.md) / [Документация]()
+    
     
 ---
 ### :fire: My Stats :
