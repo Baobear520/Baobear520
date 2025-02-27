@@ -109,7 +109,6 @@
     The project is a part of the app that scores clients' financial credibility using ML and CV.
 
     It generates mock-users with personal credentials, assigns property objects (*real estate, cars, electronics*) using data from Avito API or CSV files, and stores the information in a Postgres database. The service also downloads property images, saves them in a storage bucket, and processes them with CV models (currently under development).
-
     (Python, Selenium, pandas, csv, asyncio, aiohttp, aiofiles, asyncpg, PostgrSQL, MinIO, Docker)
 
     Also includes:
@@ -127,7 +126,7 @@
 
     Also includes:
     
-    A framework for testing, filtering out and saving valid proxies that can be used for scraping.
+    - A framework for testing, filtering out and saving valid proxies that can be used for scraping.
     
     [Docs](https://github.com/Baobear520/Saksoff5th.com_data_scraper/blob/main/README.md) / [Документация]()
     
