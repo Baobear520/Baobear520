@@ -148,7 +148,7 @@
 ---
 
 - ### **AI/ML**
-  - [SpeechToText](https://github.com/Baobear520/SpeechToText)
+  - ## [Speech-To-Text Converter](https://github.com/Baobear520/SpeechToText)
  
     Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI API)
 
