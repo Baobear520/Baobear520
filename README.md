@@ -3,7 +3,7 @@
   Hey, I'm Dmitry!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>I am a Python developer with 2,5 years of experience building modern scalable software. </h2>
+<h2>Python developer. </h2>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dmitry-alekseev-py/">
@@ -21,12 +21,13 @@
 </div>
 <h4>
   
+🤓 I develop RESTful backend apps and web parsers, work with external APIs and databases.
 
- :nerd_face: I develop RESTful backend apps, work with external APIs, SQL databases, web parsers, Telegram bots and AI/ML.
-  
- :telescope: I love to dig deep into Python, solve problems and learn cool tech stuff.
-  
- :mailbox: Let's talk software: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aldmikon27/)
+🚀 I enjoy solving business problems with code.
+
+🔭 I love exploring Python, working with data, grokking coding puzzles, and diving into new technologies.
+
+📬 For business inquiries or just a friendly chat: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aldmikon27/)
 
 </h4>
 
@@ -64,10 +65,8 @@
 :briefcase: My projects :
 ---
 
-
- ### **Full-stack Web Apps**
- 
  - ## [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
+   Tags: *#full-stack #API*
    
     "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker)
    
@@ -75,36 +74,8 @@
     
 ---
 
-  ### **Web Services and Backend APIs**
-
-  - ## [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
-
-    A real estate query service that validates property data by simulating requests to a third-party server, returns the results and stores the data in a database (Python, Django, DRF, SQLite, Celery, Redis, Docker Compose, Swagger).
-
-    [Docs](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README.md) / [Документация](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README_RUS.md)
-  
-  - ## [Avito Banner Service](https://github.com/Baobear520/AvitoBanners)
-
-    A web service for managing user banners with CRUD operations, PostgreSQL data storage, user authentication and permissions (Python, DRF, PostgreSQL).
-
-    [Docs](https://github.com/Baobear520/AvitoBanners/blob/main/README.md) / [Документация](https://github.com/Baobear520/AvitoBanners/blob/main/README.md)
-    
-  - ## [Users Heart Rates](https://github.com/Baobear520/Users_heart_rates)
-    
-    A health monitoring system that tracks user heart rates and provides real-time analytics. 
-(Python, PostgreSQL, SQLAlchemy, asyncpg)
-
-    [Docs](https://github.com/Baobear520/Users_heart_rates/blob/main/README.md)/ [Документация]()
-
-  - ## [Training Center](https://github.com/Baobear520/TrainingCenter)
-
-    Web app for a training center online platform with an admin and a public RESTful interface, user authentication and permissions, MySQL database storage (Django, DjangoRestFramework, MySQL, HTML, CSS)
-
-    [Docs]() / [Документация]()
----
-    
-  ### **Parsers/web scrapers**
-  - ## [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
+- ## [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
+    Tags: *#parser #data #asynchronous Python #AI/ML*
 
     The project is a part of the app that scores clients' financial credibility using ML and CV.
 
@@ -118,9 +89,21 @@
     - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket
 
     [Docs](https://github.com/Baobear520/AvitoParser/blob/main/README.md) / [Документация]()
-    
-  - ## [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
 
+---
+
+- ## [Cadastral Query Service](https://github.com/Baobear520/Cadastral_Query_Service)
+    Tags: *#REST API #microservices*
+  
+    A real estate query service that validates property data by simulating requests to a third-party server, returns the results and stores the data in a database (Python, Django, DRF, SQLite, Celery, Redis, Docker Compose, Swagger).
+
+    [Docs](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README.md) / [Документация](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README_RUS.md)
+
+---
+    
+- ## [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
+    Tags: *#parser #scraper #data #asynchronous Python #threading*
+  
     A web scraping application designed to extract large datasets from https://saksoff5th.com using parallel multi-threading and asynchronous HTTP requests and to store obtained data in a database.
     (Python, Selenium, threading, asyncio, aiohttp, aiofiles, SQLite).
 
@@ -129,17 +112,10 @@
     - A framework for testing, filtering out and saving valid proxies that can be used for scraping.
     
     [Docs](https://github.com/Baobear520/Saksoff5th.com_data_scraper/blob/main/README.md) / [Документация]()
-    
-  - ## [Book Scraper](https://github.com/Baobear520/BookScraper)
 
-    A script for asynchronous scraping https://books.toscrape.com/, extracting books metadata and storing in a database (Python, asyncio, aiohttp).
-
-    [Docs](https://github.com/Baobear520/BookScraper/blob/main/README.md) / [Документация]()
-    
 ---
-
-- ### **Telegram Bots**
-  - ## [MMA Events Bot](https://github.com/Baobear520/mma_events_bot)
+- ## [MMA Events Bot](https://github.com/Baobear520/mma_events_bot)
+    Tags: *#telegram bot #parser #scraper*
 
     Parses data from https://www.sherdog.com, and sends the bot's user the links to the most recent and upcoming MMA events (Python, Telegram Bot API, request, beautiful soup, python-telegram-bot).
 
@@ -147,8 +123,8 @@
 
 ---
 
-- ### **AI/ML**
-  - ## [Speech-To-Text Converter](https://github.com/Baobear520/SpeechToText)
+- ## [Speech-To-Text Converter](https://github.com/Baobear520/SpeechToText)
+    Tags: *#AI/ML #OpenAI API*
  
     Transcribes lyrics/speech from audio files into text and saves it in a .txt file. (Python, openAI API)
 
