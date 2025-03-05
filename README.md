@@ -70,7 +70,7 @@
    
     "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker)
    
-   [Docs](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/README.md) / [Документация](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/README_RUS.md)
+   [Docs](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README.md) / [Документация](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README_RUS.md)
     
 ---
 
@@ -88,7 +88,7 @@
     
     - A framework for downloading images of the items fetched from  AvitoAPI and saving them locally on a hard drive, in a CSV -file, database, or remotely in a storage bucket
 
-    [Docs](https://github.com/Baobear520/AvitoParser/blob/main/README.md) / [Документация]()
+    [Docs](https://github.com/Baobear520/AvitoParser/blob/main/README.md) / [Документация](https://github.com/Baobear520/AvitoParser/blob/main/README_RUS.md)
 
 ---
 
