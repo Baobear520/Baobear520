@@ -27,7 +27,7 @@
 
 🔭 I love exploring Python, working with data, grokking coding puzzles, and diving into new technologies.
 
-📬 For business inquiries or just a friendly chat: [![Telegram Badge](https://img.shields.io/badge/-admitry27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aldmikon27/)
+📬 For business inquiries or just a friendly chat: [![Telegram Badge](https://img.shields.io/badge/-aldmikon27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aldmikon27/)
 
 </h4>
 
@@ -65,14 +65,15 @@
 :briefcase: My projects :
 ---
 
- - ## [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
-   Tags: *#full-stack #API*
+ - ## [TicketSearchSystem](https://github.com/Baobear520/TicketSearchSystem)
+   Tags: *#backend*
    
-    "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker)
+    Implementing an event ticket search engine based on date range, ticket type and category, price range and quantity
    
-   [Docs](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README.md) / [Документация](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README_RUS.md)
+   [Docs](https://github.com/Baobear520/TicketSearchSystem/blob/main/README.md)
     
 ---
+
 
 - ## [Mock User Data Generator](https://github.com/Baobear520/AvitoParser)
     Tags: *#parser #data #asynchronous Python #AI/ML*
@@ -99,6 +100,15 @@
 
     [Docs](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README.md) / [Документация](https://github.com/Baobear520/Cadastral_Query_Service/blob/main/README_RUS.md)
 
+---
+
+ - ## [Under The Weather](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker)
+   Tags: *#full-stack #API*
+   
+    "Under The Weather" helps Spotify users create personalized playlists with tracks for the real-time weather at the user's location (Python, Django, Celery, Redis, HTML, CSS, Bootstrap, JavaScript, Docker)
+   
+   [Docs](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README.md) / [Документация](https://github.com/Baobear520/UnderTheWeatherPlaylistMaker/blob/main/README_RUS.md)
+    
 ---
     
 - ## [Saksoff5th.com e-commerce data scraper](https://github.com/Baobear520/Saksoff5th.com_data_scraper)
