@@ -64,13 +64,20 @@
 ---
 :briefcase: My projects :
 ---
+- ## [Photo Uploading Service](https://github.com/Baobear520/PhotoUploader)
+    Tags: *#full-stack web app*
+  
+    A service for asyncronous uploading and processing images (Django, Celery, Redis, PostgreSQL, Docker)
 
+    [Docs](https://github.com/Baobear520/PhotoUploader/blob/main/README.md) / [Документация](https://github.com/Baobear520/PhotoUploader/blob/main/README.md)
+
+---
  - ## [TicketSearchSystem](https://github.com/Baobear520/TicketSearchSystem)
    Tags: *#backend*
    
     Implementing an event ticket search engine based on date range, ticket type and category, price range and quantity
    
-   [Docs](https://github.com/Baobear520/TicketSearchSystem/blob/main/README.md)
+   [Docs](https://github.com/Baobear520/TicketSearchSystem/blob/main/README.md) / [Документация](https://github.com/Baobear520/TicketSearchSystem/blob/main/README.md)
     
 ---
 
