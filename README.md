@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/dmitry-alekseev-py/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/alexdate13/">
+  <a href="https://t.me/alexdata13/">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.reddit.com/user/DimaChengdu/">
@@ -27,7 +27,7 @@
 
 🔭 I love exploring Python, working with data, grokking coding puzzles, and diving into new technologies.
 
-📬 For business inquiries or just a friendly chat: [![Telegram Badge](https://img.shields.io/badge/-aldmikon27-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexdate27/)
+📬 For business inquiries or just a friendly chat: [![Telegram Badge](https://img.shields.io/badge/-alexdata13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexdata27/)
 
 </h4>
 
